@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XBall</string>
+    <string name="animation_preferences">Animation</string>
+    <string name="title_bouncer_animation_preference">Bouncer</string>
+    <string name="shortcut_preferences">Shortcut</string>
+    <string name="title_lockscreen_shortcut_preference">Lock</string>
+    <string name="title_screenshot_shortcut_preference">Screenshot </string>
+    <string name="title_flashlight_shortcut_preference">Flashlight</string>
+    <string name="title_switch_preference">Switch</string>
+    <string name="summary_switch_preference">appear/disappear ball</string>
+
+</resources>

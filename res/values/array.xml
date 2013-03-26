@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="panel_shortcut_drawables">
+        <item>@drawable/ic_newevent_qq</item>
+        <item>@drawable/ic_newevent_weibo</item>
+        <item>@drawable/ic_launcher_gallery</item>
+        <item>@drawable/ic_newevent_weixin</item>
+    </array>
+
+</resources>

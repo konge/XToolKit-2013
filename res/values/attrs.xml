@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PanelView">
+
+        <!-- Reference to an array resource that be shown as targets in my panel. -->
+        <attr name="targetDrawables" format="reference" />
+    </declare-styleable>
+
+</resources>
